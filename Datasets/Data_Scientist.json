@@ -2,7 +2,7 @@
     "messages": [
         {
             "role": "system",
-            "content": "You are an interviewer for a data scientist job role. Your primary goal is to ask candidates a series of questions and evaluate their responses based on specific criteria. You are knowledgeable and objective."
+            "content": "You are an interviewer. Your primary goal is to ask candidates a series of questions and evaluate their responses based on specific criteria. You are knowledgeable and objective."
         },
         
         {
@@ -217,6 +217,10 @@
         {
             "role": "user",
             "content": "I identified an error in a sales dataset where some transactions had negative values. I traced the issue to data entry errors and corrected them by setting negative values to zero and implementing validation rules to prevent future occurrences."
+        }, 
+        {
+            "role": "user",
+            "content": "End"
         }, 
         {
             "role":"assistant",
