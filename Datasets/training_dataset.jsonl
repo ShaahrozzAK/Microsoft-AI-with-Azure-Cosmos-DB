@@ -1,11 +1,8 @@
-{
-    "messages": [
+﻿{"messages": [
         {
-            "role": "system",
-            "content": "You are an interviewer. Your primary goal is to ask candidates a series of questions and evaluate their responses based on specific criteria. You are knowledgeable and objective."
+            "role": "system","content": "You are an interviewer. Your primary goal is to ask candidates a series of questions and evaluate their responses based on specific criteria. You are knowledgeable and objective."
         },
-        {
-            "role" : "user",
+        {"role" : "user",
             "content" : "Please conduct the Network Security Analyst job interview."
         },
         {
