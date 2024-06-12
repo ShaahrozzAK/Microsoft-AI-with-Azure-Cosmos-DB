@@ -1,0 +1,425 @@
+[
+  {
+    "_id": "6661723318a700af0f74dbd1_new1",
+    "role": "Data Scientist",
+    "description": "Derives insights from structured and unstructured data to help drive strategic decision-making.",
+    "skills": [
+      "Python",
+      "R",
+      "SQL",
+      "Machine Learning",
+      "Data Visualization"
+    ],
+    "qualifications": [
+      "Bachelor's degree in a related field",
+      "Master's or PhD preferred"
+    ],
+    "salary": "$95,000 - $140,000",
+    "benefits": [
+      "Health Insurance",
+      "401(k) matching",
+      "Paid Time Off"
+    ]
+  },
+  {
+    "_id": "666173d218a700af0f74dbd3_new2",
+    "role": "Machine Learning Engineer",
+    "description": "Focuses on deploying scalable machine learning systems.",
+    "skills": [
+      "Python",
+      "Java",
+      "Scala",
+      "TensorFlow",
+      "Spark"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience with software development"
+    ],
+    "salary": "$100,000 - $150,000",
+    "benefits": [
+      "Stock Options",
+      "Health Insurance",
+      "Remote Work Options"
+    ]
+  },
+  {
+    "_id": "6661754018a700af0f74dbd4_new3",
+    "role": "Data Analyst",
+    "description": "Interprets data and creates visualizations to present findings to stakeholders.",
+    "skills": [
+      "Excel",
+      "SQL",
+      "Tableau",
+      "Python"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Certifications like CSSLP, CEH"
+    ],
+    "salary": "$60,000 - $90,000",
+    "benefits": [
+      "Health Insurance",
+      "Professional Development",
+      "Flexible Hours"
+    ]
+  },
+  {
+    "_id": "6661764518a700af0f74dbd6_new4",
+    "role": "Research Scientist",
+    "description": "Develops new algorithms and methodologies in data science.",
+    "skills": [
+      "Python",
+      "R",
+      "Deep Learning",
+      "Research Publications"
+    ],
+    "qualifications": [
+      "PhD in Computer Science, Statistics, or a related field"
+    ],
+    "salary": "$110,000 - $160,000",
+    "benefits": [
+      "Research Grants",
+      "Conference Travel",
+      "Flexible Schedule"
+    ]
+  },
+  {
+    "_id": "666177b918a700af0f74dbd8_new6",
+    "role": "Business Intelligence (BI) Developer",
+    "description": "Creates and manages BI solutions to transform data into actionable business insights.",
+    "skills": [
+      "SQL",
+      "ETL",
+      "Data Warehousing",
+      "Tableau",
+      "Power BI"
+    ],
+    "qualifications": [
+      "Bachelor's degree in IT, Business, or related field"
+    ],
+    "salary": "$80,000 - $120,000",
+    "benefits": [
+      "Health Insurance",
+      "401(k)",
+      "Professional Development"
+    ]
+  },
+  {
+    "_id": "6660382a8fecb14af02a89f2",
+    "role": "Security Analyst/Incident Responder",
+    "description": "Monitors networks for security breaches and investigates incidents.",
+    "skills": [
+      "Network security",
+      "Incident response",
+      "SIEM tools",
+      "Forensics"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Certifications like CEH, CISSP"
+    ],
+    "salary": "$70,000 - $100,000",
+    "benefits": [
+      "Health insurance",
+      "401(k)",
+      "Flexible work hours"
+    ]
+  },
+  {
+    "_id": "666038ef8fecb14af02a89f3",
+    "role": "Security Engineer",
+    "description": "Designs, implements, and maintains security systems.",
+    "skills": [
+      "Network architecture",
+      "Encryption",
+      "Security frameworks",
+      "Firewalls",
+      "IDS/IPS"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Information Security or related field",
+      "Certifications like CISSP, CISM"
+    ],
+    "salary": "$80,000 - $120,000",
+    "benefits": [
+      "Health insurance",
+      "Stock options",
+      "Remote work"
+    ]
+  },
+  {
+    "_id": "6660396e8fecb14af02a89f4",
+    "role": "Penetration Tester/Ethical Hacker",
+    "description": "Performs authorized attacks on networks to identify vulnerabilities.",
+    "skills": [
+      "Penetration testing tools",
+      "Scripting",
+      "Social engineering",
+      "Security assessment"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Cybersecurity or related field",
+      "Certifications like CEH, OSCP"
+    ],
+    "salary": "$90,000 - $130,000",
+    "benefits": [
+      "Health insurance",
+      "Performance bonuses",
+      "Gym membership"
+    ]
+  },
+  {
+    "_id": "666176b018a700af0f74dbd7_new5",
+    "role": "Big Data Engineer",
+    "description": "Manages and processes large datasets using big data technologies.",
+    "skills": [
+      "Hadoop ",
+      "Spark",
+      "NoSQL databases",
+      "Python"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or a related field",
+      "Experience with big data technologies"
+    ],
+    "salary": "$100,000 - $145,000",
+    "benefits": [
+      "Health Insurance",
+      "Retirement Plans",
+      "Remote Work Options"
+    ]
+  },
+  {
+    "_id": "666039c88fecb14af02a89f5",
+    "role": "Security Architect",
+    "description": "Designs and oversees the overall security architecture of an organization.",
+    "skills": [
+      "Security principles",
+      "Secure SDLC",
+      "Cloud security",
+      "Compliance"
+    ],
+    "qualifications": [
+      "Bachelor's or Master's degree in Information Security or related field",
+      "Certifications like CISSP, TOGAF"
+    ],
+    "salary": "$120,000 - $160,000",
+    "benefits": [
+      "Health insurance",
+      "Pension plan",
+      "Executive perks"
+    ]
+  },
+  {
+    "_id": "66603a8a8fecb14af02a89f6",
+    "role": "Malware Analyst",
+    "description": "Analyzes and reverse-engineers malware to understand its behavior.",
+    "skills": [
+      "Programming",
+      "Malware analysis",
+      "Reverse engineering"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Certifications like GREM"
+    ],
+    "salary": "$90,000 - $120,000",
+    "benefits": [
+      "Health insurance",
+      "Research opportunities",
+      "Conference attendance"
+    ]
+  },
+  {
+    "_id": "66603ae98fecb14af02a89f7",
+    "role": "Security Researcher",
+    "description": "Conducts research to discover new vulnerabilities and threats.",
+    "skills": [
+      "Analytical skills",
+      "security management frameworks"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Cybersecurity or related field",
+      "Relevant research experience"
+    ],
+    "salary": "$100,000 - $140,000",
+    "benefits": [
+      "Health insurance",
+      "Research grants",
+      "Publication royalties"
+    ]
+  },
+  {
+    "_id": "66603b3e8fecb14af02a89f8",
+    "role": "Risk Analyst",
+    "description": "Assesses and analyzes risk management procedures and implements mitigation strategies.",
+    "skills": [
+      "Analytical skills",
+      "Risk management frameworks",
+      "Regulatory standards"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Certifications like CSSLP, CEH"
+    ],
+    "salary": "$80,000 - $110,000",
+    "benefits": [
+      "Health insurance",
+      "Retirement plan",
+      "Professional development"
+    ]
+  },
+  {
+    "_id": "66603ba98fecb14af02a89f9",
+    "role": "Application Security Specialist",
+    "description": "Ensures applications are developed and deployed securely.",
+    "skills": [
+      "Secure coding practices",
+      "Programming languages",
+      "Automated security tools"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Certifications like CSSLP, CEH"
+    ],
+    "salary": "$90,000 - $120,000",
+    "benefits": [
+      "Health insurance",
+      "Flexible hours",
+      "Professional development"
+    ]
+  },
+  {
+    "_id": "666178e01fb3294517f793f5",
+    "role": "Data Engineer",
+    "description": "Designs and builds systems for collecting, storing, and analyzing data at scale.",
+    "skills": [
+      "Python",
+      "SQL",
+      "ETL",
+      "Big Data Technologies",
+      "Cloud Platforms"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Engineering, or related field",
+      "Experience with data pipeline frameworks"
+    ],
+    "salary": "$85,000 - $130,000",
+    "benefits": [
+      "Health Insurance",
+      "401(k) matching",
+      "Paid Time Off"
+    ]
+  },
+  {
+    "_id": "6661793f1fb3294517f793f6",
+    "role": "Big Data Engineer",
+    "description": "Specializes in managing and processing large-scale datasets using big data technologies.",
+    "skills": [
+      "Hadoop",
+      "Spark",
+      "NoSQL databases",
+      "Java",
+      "Python"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science, Engineering, or related field",
+      "Experience with big data ecosystems"
+    ],
+    "salary": "$100,000 - $145,000",
+    "benefits": [
+      "Health Insurance",
+      "Retirement Plans",
+      "Remote Work Options"
+    ]
+  },
+  {
+    "_id": "666179a01fb3294517f793f7",
+    "role": "Data Platform Engineer",
+    "description": "Focuses on building and maintaining data platforms to support various data engineering and data science operations.",
+    "skills": [
+      "Cloud Platforms",
+      "Kubernetes",
+      "Docker",
+      "SQL",
+      "Python"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience with cloud infrastructure and containerization"
+    ],
+    "salary": "$95,000 - $140,000",
+    "benefits": [
+      "Health Insurance",
+      "Stock Options",
+      "Flexible Working Hours"
+    ]
+  },
+  {
+    "_id": "666179fa1fb3294517f793f8",
+    "role": "ETL Developer",
+    "description": "Designs and develops ETL (Extract, Transform, Load) processes to move data between systems.",
+    "skills": [
+      "SQL",
+      "ETL Tools",
+      "Data Warehousing",
+      "Python",
+      "SSIS"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Information Technology or related field",
+      "Experience with ETL tools and techniques"
+    ],
+    "salary": "$75,000 - $115,000",
+    "benefits": [
+      "Health Insurance",
+      "Professional Development",
+      "Remote Work Options"
+    ]
+  },
+  {
+    "_id": "66617a571fb3294517f793f9",
+    "role": "Data Warehouse Engineer",
+    "description": "Builds and manages data warehouse solutions to consolidate data from various sources for analytical purposes.",
+    "skills": [
+      "SQL",
+      "ETL",
+      "Data Warehousing",
+      "Redshift",
+      "Snowflake"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience with data warehousing solutions"
+    ],
+    "salary": "$90,000 - $135,000",
+    "benefits": [
+      "Health Insurance",
+      "401(k)",
+      "Paid Parental Leave"
+    ]
+  },
+  {
+    "_id": "66617b511fb3294517f793fa",
+    "role": "Data Operations Engineer",
+    "description": "Ensures the operational stability and performance of data infrastructure, focusing on monitoring and automation.",
+    "skills": [
+      "Python",
+      "Shell scripting",
+      "SQL",
+      "DevOps tools",
+      "Monitoring tools"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field",
+      "Experience with DevOps and monitoring tools"
+    ],
+    "salary": "$80,000 - $125,000",
+    "benefits": [
+      "Health Insurance",
+      "Flexible Working Hours",
+      "Professional Development"
+    ]
+  }
+]
